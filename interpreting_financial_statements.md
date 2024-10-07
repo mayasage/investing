@@ -143,6 +143,46 @@
 
 - The investor who buys the security based on when the price looks cheap according to the accounts, and sells them when they seem high, won't make spectacular profits, but will also avoid spectacular losses. 
 
+## Ratios
+
+- Margin of Profit = Operating Income / Revenue
+- Earnings on Invested Capital = Total Income (Operating Income + Non-operating Income) / Sum of money invested
+  - The people put in this much money and got this much income. 
+- Times Interest Charges Earned = Total Income / Interest Paid
+  - How much year of interests can the earnings cover ? If the management is good, they won't have much problem in the bad years. 
+- Times Interest Charges and Preferred Dividend Earned = Total Income / (Interest + Preferred Dividend)
+  - If you're doing a straight investment, you need this ratio to be high, as it would mean better hope for return (of course the business needs to be good too in the upcoming years). 
+- Earning Per Share on Common Stock = Income available for common stocks / No. of shares outstanding
+  - This is the return per share of the business. Whether they give dividend or re-invest into the business is upto them.
+- Net Income Transferred to Surplus as a Percentage of Net Income Available for Dividends = Amount transferred to Surplus / Income Before Dividends (yes, even before giving out preferred dividends)
+  - This will tell you how conservative the company is regarding dividend policy. Again, you'll have to compare across companies & over the years.
+- Inventory Turnover Ratio (ITR) = COGS / Inventory
+  - Use Sales if you can't find COGS.
+  - A high ITR means:
+    - A good demand for the products, that's why the inventory is getting used. Or not. What if the company keeps producing, but it's not selling.
+    - You need less capital investment in inventories, which means less working capital is required.
+    - Low risk of obsolescence of Inventory.
+- Number of Days Average Account Receivable is Outstanding = Account Receivable (per year) / Revenue per day (Revenue / 365)
+- Capitalization Ratios
+  - How much is the company financed from different sources ?
+  - Bond Capitalization = Outstanding Bonds / Sum of all financial instruments (bonds + preferred + common stock) & surplus
+    - How much is the company financed through bonds.
+  - Preferred Stock Capitalization = Preferred Stock / (Sum of all financial instruments + surplus) 
+  - Common Stock and Surplus Capitalization = (Common Stock + Surplus) / (Sum of all financial instruments + surplus)
+    - more than 50% must be from common stock & surplus.
+- Stock value ratio for Preferred Stock = Total Market Value of Common Stock / (par/book value of bonds + market value of preferred stock) 
+  - The proportion of common stock financing to other financing.
+- Stock value ratio for Bonds = (Market Value of Preferred Stocks + Market Value of Common Stocks) / Par value of Bonds
+  - These ratios may make more sense than B.V. since they use the actual value of the instrument in the market.
+- Current Ratio = Current Assets / Current Liabilities
+  - A current ratio of 5.04 will imply that the company has $5.04 in current assets for each $ in current liabilities. This ratio of course varies by industries, so find it and compare.  
+- Quick Assets Ratio = (Current Assets - Inventory) / Current Liabilities
+- Book Value of Common Stock = (Common Stock + Surplus) / No. of shares of common stock outstanding
+  - You must exclude intangible assets from the book value.
+  - Book value is largely useless. The only time it's worth thinking about is when the difference between this and the market price is large.
+- Price-Earning Ratio / Market Ratio = Market Price Per Share / Earning Per Share
+  - How high or low is the share selling for ?  
+
 # Thoughts
 
 - First you pick some company to evaluate.
