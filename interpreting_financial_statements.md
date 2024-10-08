@@ -181,7 +181,7 @@
   - You must exclude intangible assets from the book value.
   - Book value is largely useless. The only time it's worth thinking about is when the difference between this and the market price is large.
 - Price-Earning Ratio / Market Ratio = Market Price Per Share / Earning Per Share
-  - How high or low is the share selling for ?  
+  - How high or low is the share selling for ?
 
 # Thoughts
 
@@ -217,3 +217,43 @@
 
 - The management must have the ability to meet constantly changing conditions.
 
+## Financial Terms & Phrases
+
+- Acceleration Clause: If you fail interest payments on bond (or some other "event of default" occurs), then it may be declared that you must pay back the bond principal in advance, because they're becoming afraid and losing trust in you.
+- Accruals: Expenses charged, but cash payment not yet made. Example: bond interest is accrued each month, but is usually paid at six-month intervals. On the other hand, interest on securities held is also an accrual.
+- Accumulative (Dividends) = Cumulative Dividends
+- Adjustment Bonds = Income Bonds
+- "After acquired property": I am a Debtor. I have signed on a clause that says "all my property secures my debt". Now, suppose I buy a new property or upgrade the existing, then that too is part of the Debt, because you signed on the "all" timeless, unconditional clause). Imagine you went into Debt to buy a home, then you made improvements to it, and ended up getting filed for bankruptcy. Now your creditors will enjoy those improvements.
+- Amortization: Gradually extinguishing a liability, deferred charge, or capital expenditure over a period of time.
+- Arbitrage: Simultaneous buy and sell for profit. Example: buying in the London stock exchange, and selling it in New York Stock Exchange. Or sell a stock and buy it back via "rights", bonds or preferred stock that are convertible back to common stock at a definite ratio.
+- Articles of Association. A document similar to a certificate of incorporation setting forth the terms under which an enterprise is authorized by a state to do business.
+- Asset Value = Book Value
+- Bankers' Shares / Trustee Shares: A trustee holds ownership of shares on behalf of beneficiaries, following bank regulations. Why ? Tax minimization and long-term planning among other reasons. (Imagine a rich family holding their money in such trustee shares.)
+- Coupon / Nominal Yield / Coupon Rate/ Coupon Percentage Rate: Interest rate on a bond. Usually paid semi-annually.
+  - Coupon Rate = Sum of Coupon Payments in a year / Bond's face value
+  - So, bonds not yet matured are traded in the market. Therefore, we have another concept.
+  - Current Yield = Annual Interest / Current Price
+  - This is what you'll earn from the bond by buying & holding it for 1 year (according to the current market).
+  - Now it may seem to you that the bond is a good investment, but beware.
+  - Suppose you buy a bond for $100, and after 2 years it's price becomes $75, then you sell it. Now you lost $5. Even though you made $10 each both the years, you still made a loss because the market value of the bond went down. However, if you buy and hold till maturity, and never sell then you'll definitely be in profit, unless something drastic happens like company bankruptcy & still couldn't pay back even the bonds somehow (you should not be in this position, that's why we're doing security analysis after all) or heavy inflation (so much that the bond returns are negligible, I don't understand what's going to happen then).
+  - This doesn't seem a wholesome indicator now. So, here's the wholesome one.
+  - Yield to Maturity = The anticipated return if she holds the bond until it matures in Present Value
+  - You need 4 things to calculate this: Market Price, Par Value, Coupon Interest Rate, Time to Maturity.
+  - You also need to add the coupon's return as re-investment in the same instrument, in the same manner, which you probably won't even be able to do in real life. I mean how is it possible that I can reinvest in the same excellent instrument every six-month with the interest and it remains just as excellent ? If it's excellent, other people will buy on it, and make it less than excellent.
+  - I'll leave this to Security Analysis.
+  - So, coupon rate and current yield are different.
+- Basis/Yield Basis: Quoting the price of a fixed-income security as a yield percentage, instead of a dollar value. Bonds have varying characteristics. So you're trying to compare bonds by their earning potential.
+  - Yield basis = Coupon amount paid annually / bond purchase price
+  - If yield basis > coupon rate, this means that the bond is selling at a discount. On the other hand, if yield price < coupon rate, the bond is selling at a premium.
+- Blue Chip Issues: High price to earning ratio, popular market leaders.
+- "Blue Sky" Flotations: You get blue sky for your money. These securities have no value. Banned. Imagine someone selling people securities without giving them any information about them, except promises of big return.
+- Bonds Vs Notes: Notes are short-termed (<5 years), while Bonds are long-termed.
+- Bond Discount: My company issued a bond. The amount I received was less than par (face value). This discount is a loss & is amortized over the life of the bond.
+- Straight Bond / Bonds, Straight: Has the following 3:
+  - unqualified right to repayment of a fixed principal amount on a fixed date
+  - unqualified right to fixed interest payment on fixed dates
+  - no further interest in assets or profits
+  - no voice in management
+- It's a vanilla bond. Like U.S. Treasury bonds.
+- Bonds, Underlying: These bonds have precedence over some other bond or bonds. Usually hold a first mortgage on property of the corporation.
+- Break-Up Value / Sum-of-parts value: I have a business. The business has multiple segments (child companies you may assume or maybe my company is an Investment Trust). Break-up value will be the sum of the worth of each of these child businesses. You calculate everything at market price.
