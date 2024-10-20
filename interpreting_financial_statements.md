@@ -257,3 +257,81 @@
 - It's a vanilla bond. Like U.S. Treasury bonds.
 - Bonds, Underlying: These bonds have precedence over some other bond or bonds. Usually hold a first mortgage on property of the corporation.
 - Break-Up Value / Sum-of-parts value: I have a business. The business has multiple segments (child companies you may assume or maybe my company is an Investment Trust). Break-up value will be the sum of the worth of each of these child businesses. You calculate everything at market price.
+- Callable Features: A company can retire a bond or preferred stock in advance of maturity.
+- Capitalization: Sum of bonds, preferred stocks and common stocks.
+- Capital Structure: Division of capital between bonds, preferred stocks and common stocks. If common stocks represents most of the capital structure, the structure is called "conservative". Where common stocks represents a small percentage of the total, the structure is called "speculative".
+- Capitalizing Fixed Charges: I can afford an annual payment of $100,000. I know that 4% is the lowest rate I can push to. Then what would be the principal amount ? $100,000 / 4% = $25,00,000. So you'll issue $25,00,000 @ 4% p.a.
+- Cash Asset Value: Amount of cash receivable from securities after deducting all liabilities. Stated as per share or per $1000 bond. It can also be stated without deducting prior liabilities, which makes sense when your other assets cover all the liabilities.
+- Cash Equivalents: Assets that are held in place of cash, and are convertible to cash in a very short time. Example: Time deposits, U.S. Government bonds and other marketable securities.
+- Certified Report: A corporate report (Balance Sheet, Income Statement and/or Surplus Statement) attested by a certified public accountant. You need to look at the certificate of the auditor because audits vary by scope.
+- Charter: The certificate of incorporation or franchise that grants legal powers to the business written in the charter.
+- Civil Loans: Loans taken by any government agency.
+- Class "A" Stock: To distinguish it from other shares like class "B".
+- Collateral-Trust Bonds: Bonds secured by other securities (either stocks or bonds) deposited with a trustee.
+- Consolidation = Merger
+- Contingent Liabilities: Liabilities indefinite as to either their amount or their occurrence. Examples: amounts involved in lawsuits or tax claims; liabilities under a guarantee.
+- Conversion Parity or Conversion Level: At what rate is the common stock convertible to a preferred stock. If preferred stock sells at 90, and you can get 3 shares of common stocks for 1 share of preferred stock, then conversion parity is 30 (90 / 3). This is not money, but the rate of conversion.
+- Conversion Price: At what price is the common stock convertible into bond or preferred stock. I have $1000 bond convertible to 40 shares of common stock, the conversion price is $1000 / 40 = $25 per share. This is the actual money.
+- Conversion Privilege = Convertible Issues.
+- Cumulative Preferred Stock: Preferred stock that must be paid dividends at a fixed rate, and if you couldn't pay dividends in the previous years, you'll need to pay them subsequently before common stocks get anything.
+- Cumulative Voting: Allow shareholders to vote proportionately to the number of shares they hold. So a shareholders with 100 shares can cast the equivalent of 100 votes instead of the typical 1 vote per shareholder. Allow shareholders to split votes.
+- Current Asset Value (per share) = Current Asset - Total Liabilities equivalent to a given security. Preferred stock are also Liabilities. Note that we're subtracting all the liabilities and not just the current, so this is not the working capital. Fixed Assets are ignored because they have no market value and in a good business current assets need to overwhelm liabilities.
+- Debentures: Debt without collateral. Unsecured bonds.
+- Deed of Trust = Indenture.
+- Dilution: Increase in the number of common shares without a corresponding increase in the company's assets. Most convertible are protected from this by increasing the conversion price. It's called an "anti-dilution clause".
+- Dividend Coverage: The number of times a dividend is earned in a given period.
+- Dividend Yield: Annual Dividend per share / Market Price per share.
+- Scrip: A script is a substitute to legal tender. Holding it entitles the bearer to receive something in return. These have been used to compensate employees when money was in short supply. Example: gift cards, reward points and coupons.
+- Divisional Liens: A lien is a claim on the property of a Debtor. Divisional lien is secured by a section of minor length of a railroad system. If the mileage covered by the lien is a valuable part of the system, the specific security is good.
+- Earning Power: A reasonably probable rate of earning of a particular security of company.
+- Earning Yield = Annual stock earning per share / Market price per share.
+- Effective Debt: The actual debt obligations. It includes fixed charges.
+- Rolling stock: Vehicles used in transit & support services.
+- Equipment Rentals: Sum paid by one railroad to another for the use of rolling stock.The payments are on a per-day basis (diem).
+- Equipment Trust: Trustee owns the rolling stock & issue equipment trust certificates or bonds.
+- Trading on the Equity: When a businessman borrow money to supplement his equity. Sometimes used to mean the extreme case of significant more debt than capital.
+- Factor of Safety: Earnings after deducting interest / Interest. How much can earning after paying this year's interest ? The business is doing that good.
+- Flush production: When you find a new oil well, the first period of its life will generate a lot of oil. This is temporary & lasts only a short period of time. Later, you'll get a "settled production", which is a much lower production.
+- Foreclosure: Enforce payment by snatching the mortgage of the debt.
+- Going Concern Value: Estimating the value of an enterprise based on its earning power rather than liquidation value.
+- Gold Clause: All bonds issued before 1933 promised payment in gold dollars of the same weight and finesse as when the debt was contracted. Illegal now.
+- Hedge: Fix future delivery of commodities right now to avoid effects of price changes (for commodity market). Or protection against losses by putting some money in the opposite direction.
+- Holding Company = Parent Company.
+- House of Issue: Investment banking company that underwrites and distributes security issues.
+- Underwriting: An individual or institution that takes on financial risk for a fee. When a company wants to sell its shares, they'll go to the underwriter, and sell all the shares to it. Then the underwriter will sell the shares in the open market. The risk is that the security may sell below the target price. The underwriter will bear this loss.
+- Income Bonds / Adjustment Bonds: The payment of interest depends on earnings. Sometimes a part of interest is fixed.
+- Indenture / Deed of Trust: Terms & conditions document of bond.
+- Investment Trust: An enterprise that invests for its bond and stockholders.
+- Joint and Several Guarantee: Guarantor will be liable if associates fail.
+- Joint Facility Rents: The trains of railroads expires and have to be dealt with. So many railroads pay rent for "terminal facilities". It can be any facility regarding railroads.
+- Junior issue: Issue doesn't have superior claim on interest or dividend or principal value. It comes after some other issue called senior issue. Example: secondary mortgage is a junior issue, primary mortgage is senior; common stock is junior, preferred stock is senior.
+- Leasehold: The right to occupy a property for a specified period of time at a specified rental.
+- Leasehold Obligations: Liability to pay rental on leasehold for a specified period of time.
+- Legal Investments: The banking department of state publishes annually a list of securities considered eligible for investment by saving banks and trust funds, called "legals".
+- Leverage: The condition that effects earnings due to relatively heavy fixed costs or deductions.
+- Margin Of Profit = Operating Income / Sales. Depreciation is included, taxes are excluded. Interest charges are also excluded.
+- Margin Of Safety: How much can the earnings drop before the company defaults on its interest payments. Interest Coverage = the earnings of the company is how much higher than its interest, (Annual Earnings before interest & taxes / Interest payments per year). Margin of Safety = Earnings Left / Total Earnings = (Interest Coverage - 1) / Interest Coverage = Earnings after interest / Earnings before interest. What portion is earnings after interest of the total earnings ? This entire portion can become zero & the company will still be able to pay interest. If Margin of Safety is 42 6/7 %, then the earnings of that company can fall by this much before it defaults on its interest obligations.
+- Minority Interest: Appears in the consolidated financial statements of the parent company and reflects the portion not owner by it. In the Income Statement, it's deducted from Net Income as "Minority Interest" or "Non-controlling Interest" as the subsidiary's earnings that belongs to the minority shareholders. In the balance sheet, appears under the equity section as "Minority Interests" or "Non Controlling Interests" representing the minority shareholders' share in subsidiary's net assets.
+- Mortgage, "Blanket": One mortgage covers two or more properties. Individual pieces can be sold without returning the entire mortgage.
+- Lien: Legal right of creditors against Debtor's property if it fails to fulfill its contract.
+- Mortgage, General: Lien against all the fixed property of a corporation at the time of issuance.
+- Co-op Housing: A company will own the houses. You'll buy shares equivalent to a house, and have to pay maintenance fees. You have no right to modify or sell the house, the property gain won't be yours, its company's. You, however, can sell your shares (but you, not owning your own home and doing whatever with it is a huge caveat generally, you pay for something and still don't own it).
+- Mortgage, Guaranteed: by a Mortgage Guarantee Company or a Surety Company.
+- Negotiable Instruments: IOU. Example: currency, checks, promissory notes, acceptances, coupon bonds. They can be passed around. Stocks are non-negotiable though. They are always registered with a stockholder. They are always attached with a name of who owns them, unlike negotiable instruments.
+- Promissory Notes: Written promises by one party to pay another party a fixed amount, either on demand or at a future date. It has the signature of the issuer, or the promisor, to pay a certain amount, but not of the promisee or payee (the one who'll receive it), thus, making it negotiable. Indian Law System have a hard cap on the amount & validity of a promissory note. 3 years. I have downloaded a book on Negotiable Instruments Act. You read it when you have time. When you loan someone money enter into a formal agreement, and ask for a signed cheque without date. Don't mention the cheque number in the agreement, or else if you lose the cheque, then you lost the number written on the agreement, and won't be able to do anything. Note that the cheque has a 3 months validity only. If cheques get blocked, then the person will go under 138 NZ Act. There is another convention that governs the international trade regarding promissory notes, called 1930 Geneva Convention of Uniform Law on Bills Of Exchange and Promissory Notes. Have download some data on it. Just give it a look when you have some time. The appeal of promissory notes is that it's a simple instrument that is easy & cheap to create, but is also legally enforceable. Universities make students sign a 10-year-long recurrent promissory note for student loans.
+- Acceptance: Similar to promissory notes but for importing of goods. It deals with international trade, so it's created different from a seemingly more generic promissory note.
+
+## Analysis Attempts
+
+### General Motors
+
+Lesson: This is why companies only care about efficiency.
+
+- General Motors (GM) had become bloated.
+- The competitors had cheaper cars with better mileage due to cost-cutting and better research & development.
+- The fuel prices were increasing, so people started dropping GM.
+- GM filed for bankruptcy.
+- Government poured billions of dollars into GM to create a new GM. The old company remained "General Motors Corporations", and the new company came be known as "General Motors Company".
+- The new company was leaner, clean & profitable, and the old one was bankrupt.
+- The creditors of the old company received shares in the new company.
+- Workers in the old company lost their jobs, the shareholders lost all their wealth because no one would buy a dead company's share.
