@@ -220,6 +220,91 @@ The mutual fund (MF) lending is done via a repurchase agreement (called "repo").
 
 Margin interest payments may be tax deductible.
 
+## NASDAQ (National Association of Security Dealers Automated Quotations)
+
+NASDAQ started in 1971 as a subsidiary of the NASD (National Association of Securites Dealers), now known as the
+FINRA (Financial Industry Regulatory Authority), because SEC (Securities and Exchange Commission) urged them to automate  
+the market for securities not listed on an exchange.  
+In 2008, NASDAQ merged with the scandinavian exchange group OMX. Today more than 5_000 stocks are listed on NASDAQ,
+including those listed in NYSE.
+
+## Derivatives -— The Great Gambler
+
+Derivative is a financial contract whose value depends on some underlying security, asset or a benchmark.  
+This contract can be traded on an exchange or OTC (Over The Counter). 
+Some derivative instruments include:
+- options
+- futures
+- swaps
+- Collateralized Debt Obligations (CDOs)  
+Every derivative contract has a "strike price" and an expiration date. This value of the underlying asset will change
+in the time period, but the strike price won't. You can exercise the derivative at any time before the expiration date.
+
+### Options
+
+Ok, so first, there are two types of options—a call option and a put option.
+- Call: the holder has a right, but not an obligation, to buy the security at the strike price.
+- Put: the holder has a right, but not an obligation, to sell the security at the strike price.
+
+Now you can either be an option buyer or an option seller (also called an option writer).  
+So when do you do what?
+
+- If you're feeling bullish. 
+  - Buy a call option.
+    - You can buy the security at $50 within 1 week.
+    - The price goes to $70.
+    - The option is in-the-money (ITM).
+    - You buy the security at $50 from the option seller, and sell it on the market for $70.
+  - Or, sell a put option.
+    - You pocket the premium.
+    - The buyer gets to sell the security to you at $50 within 1 week.
+    - The price never rises, and the buyer never exercises its put option.
+    - The option remains out-of-the-money (OTM).
+
+- If you're feeling bearish.
+  - Buy a put option.
+    - You can sell the security at $50 within 1 week.
+    - The price goes to $30.
+    - The option is in-the-money (ITM).
+    - You buy the security at $30 from the market, and sell it to the option seller for $50.
+  - Or, sell a call option.
+    - You pocket the premium.
+    - The buyer gets to buy your stock at $50 within 1 week.
+    - The price never rises, and the buyer never exercises its call option.
+    - The option remains out-of-the-money (OTM).
+
+That's that.
+
+So, when you're writing a call, then you have two options: covered or naked.  
+You probably can't do a naked call though, since it required special permissions.  
+Anyway, naked writing means that you don't hold the underlying security on which you're selling options.  
+You "believe" that you'll get them when you need them.  
+Everyone else would be doing a covered writing, meaning you have the security.
+
+Suppose your broker borrows a stock from you or someone sold you a naked call options.  
+You demand the stock back because you need to trade it, or you exercise your call options.  
+However, the broker doesn't have the stock, and can't find it to give it back to you.  
+Then the broker's name will go into the SEC's Failure-To-Deliver (FTD) list.  
+Sometimes brokers go into the FTDs even when they can arrange the stock to profit from a Bear market.  
+How?
+- They have to give you back the stock.
+- The price is falling.
+- So, why give you the stock I hold right now?
+- I sell the stocks I own, call into the FTD, and wait for the price to drop.
+- When I'm satisfied with the price, I buy the stocks back and give it to you.
+- I pocket the profit.
+
+No matter which way you look at it, whether you're a buyer or a seller, this is nothing else but pure speculation.
+
+### Futures
+
+A derivative contract to buy or sell security at the future specified date, at the specified price.  
+Unlike options, this is an obligation.  
+
+### Swaps
+
+
+
 # Thoughts
 
 - First you pick some company to evaluate.
@@ -397,7 +482,7 @@ Margin interest payments may be tax deductible.
 - Sinking Fund: Bond or preferred shares retired earlier than their maturity date. The company can do this by purchasing its own issue, or indirectly by supplying money to some trustee or agent to do it.
 - Sliding Scale Privilege: A conversion or stock purchase privilege in which the price changes (almost always unfavourable to the senior issue) either with the pass of time or when the privilege is used by a given amount.
 - Over-the-counter (OTC): Buy securities via a decentralized broker-dealer network instead of a centralized exchange like the New York Stock Exchange (NYSE). Issues not available in the equity market, are available here. The transaction costs are low in this market since its decentralized. Example: NASDAQ. Note that if some security exists in the equity market, then it doesn't mean that it will not be available in the OTC. It's not mutually-exclusive. You'll be able to find everything here (in ideal case).
-- Broker-dealer: If you want to buy stocks, you must open your brokerage account with a broker. When you want to buy the stock, you tell your broker to go & buy it. Similarly, when you want to sell, you tell your broker to sell it for you. The broker is acting on your behalf, so he is your "agent" (broker is also called agent). The broker will charge you a commission per trade. Brokers are of 2 types: full-service brokers, for one-on-one personal service, & discount brokers, those who provide trade execution like online brokers (Groww). 
+- Broker-dealer: If you want to buy stocks, you must open your brokerage account with a broker. When you want to buy the stock, you tell your broker to go & buy it. Similarly, when you want to sell, you tell your broker to sell it for you. The broker is acting on your behalf, so he is your "agent" (broker is also called agent). The broker will charge you a commission per trade. Brokers are of 2 types: full-service brokers, for one-on-one personal service, & discount brokers, those who provide trade execution like online brokers (Groww). While brokers work for clients, the dealers work for themselves. Dealers are also called "Market Makers" because they simultaneously declare the buy (bid price) and sell price (offer price) of securities. They do this in what's called a "dealer market". They increase liquidity in the market. Imagine a person holds a home and willing to sell it for $5 million. Anothe person wants to buy the home, but at $4 million. Then comes a third party (dealer) who declares that he'll buy the house for $4.5 million and sell it for $4.7 million in the dealer market profiting on the $0.2 million (called the bid-ask spread, which is similar to scalping, which means profiting from small price changes). The home owner will sell the house for $4.7 million thinking it's good enough. Hence the price moved down where it originally would not have. The seller will never agree to $4 million, considering it too low. The seller and the buyer would think that these are third-party people, and would probably value the security at it's right price. This happens with stocks in the primary market, but there are other securities out there that don't sell on the stock market. NASDAQ is a dealer market. Take another example, suppose you have a security that you want to exit, but is not finding a buyer. It could happen that you find the dealers in the dealers market. They are willing to buy the security at the price lower than what you want, but not too low. So you sell to the dealer, and now it's dealers headache to find a buyer.
 
 ## Analysis Attempts
 
